@@ -1,10 +1,10 @@
 {
   "files": {
-    "main.css": "/issanewsapp/static/css/main.dfa5e239.css",
-    "main.js": "/issanewsapp/static/js/main.a709ea04.js",
-    "index.html": "/issanewsapp/index.html",
-    "main.dfa5e239.css.map": "/issanewsapp/static/css/main.dfa5e239.css.map",
-    "main.a709ea04.js.map": "/issanewsapp/static/js/main.a709ea04.js.map"
+    "main.css": "/news-app-was-taken/static/css/main.dfa5e239.css",
+    "main.js": "/news-app-was-taken/static/js/main.a709ea04.js",
+    "index.html": "/news-app-was-taken/index.html",
+    "main.dfa5e239.css.map": "/news-app-was-taken/static/css/main.dfa5e239.css.map",
+    "main.a709ea04.js.map": "/news-app-was-taken/static/js/main.a709ea04.js.map"
   },
   "entrypoints": [
     "static/css/main.dfa5e239.css",
